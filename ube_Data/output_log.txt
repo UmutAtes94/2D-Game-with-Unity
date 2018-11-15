@@ -1,0 +1,108 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+    Driver:   24.21.13.9901
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\masaüstü2018\UBE\ube_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\masaüstü2018\UBE\ube_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\masaüstü2018\UBE\ube_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\masaüstü2018\UBE\ube_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\masaüstü2018\UBE\ube_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\masaüstü2018\UBE\ube_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\masaüstü2018\UBE\ube_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\masaüstü2018\UBE\ube_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\masaüstü2018\UBE\ube_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\masaüstü2018\UBE\ube_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.291 seconds
+Platform assembly: D:\masaüstü2018\UBE\ube_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\masaüstü2018\UBE\ube_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.583803 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.592891 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 467.
+Total: 0.310518 ms (FindLiveObjects: 0.030024 ms CreateObjectMapping: 0.032790 ms MarkObjects: 0.231506 ms  DeleteObjects: 0.015802 ms)
+
+değdi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.451160 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 467.
+Total: 0.485926 ms (FindLiveObjects: 0.047407 ms CreateObjectMapping: 0.018962 ms MarkObjects: 0.411259 ms  DeleteObjects: 0.005925 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.410864 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 467.
+Total: 0.191605 ms (FindLiveObjects: 0.022518 ms CreateObjectMapping: 0.013432 ms MarkObjects: 0.150518 ms  DeleteObjects: 0.004345 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.404543 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 523.
+Total: 0.253629 ms (FindLiveObjects: 0.030024 ms CreateObjectMapping: 0.016592 ms MarkObjects: 0.183703 ms  DeleteObjects: 0.022123 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.469333 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 523.
+Total: 0.225975 ms (FindLiveObjects: 0.028444 ms CreateObjectMapping: 0.016592 ms MarkObjects: 0.175012 ms  DeleteObjects: 0.005135 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Karakter.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.530568 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 523.
+Total: 0.608000 ms (FindLiveObjects: 0.093234 ms CreateObjectMapping: 0.028049 ms MarkObjects: 0.455506 ms  DeleteObjects: 0.028839 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Karakter.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+değdi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.510419 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 541.
+Total: 0.295901 ms (FindLiveObjects: 0.031209 ms CreateObjectMapping: 0.016592 ms MarkObjects: 0.208592 ms  DeleteObjects: 0.038716 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Karakter.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.531358 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 541.
+Total: 0.272592 ms (FindLiveObjects: 0.045037 ms CreateObjectMapping: 0.016592 ms MarkObjects: 0.197135 ms  DeleteObjects: 0.013037 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Karakter.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1718 -> priority: 1 
+  Thread -> id: 4598 -> priority: 1 
+  Thread -> id: 1d88 -> priority: 1 
+  Thread -> id: 2c68 -> priority: 1 
